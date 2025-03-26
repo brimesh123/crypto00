@@ -1,7 +1,7 @@
 import axios from 'axios'; 
 // Import the axios library for making HTTP requests
 
-const baseURL = 'http://api.coingecko.com/api/v3/';
+const baseURL = 'https://api.coingecko.com/api/v3/';
 // Define the base URL for the CoinGecko API
 
 // Fetch a list of coins (top 50 by market cap) in a specific currency
